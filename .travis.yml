@@ -1,0 +1,4 @@
+language: java
+script:
+    - cd kotlin-test1
+    - gradle check
