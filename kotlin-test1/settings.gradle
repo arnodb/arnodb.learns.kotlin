@@ -1,0 +1,13 @@
+rootProject.name = 'kotlin-test1'
+rootProject.buildFileName = 'build.gradle.kts'
+rootProject.name = 'kotlin-test1'
+rootProject.name = 'kotlin-test1'
+rootProject.name = 'kotlin-test1'
+include 'kotlin-test1-backend'
+rootProject.name = 'kotlin-test1'
+include 'kotlin-test1-backend'
+rootProject.name = 'kotlin-test1'
+rootProject.name = 'kotlin-test1'
+include 'kotlin-test1-backend'
+include 'kotlin-test1-frontend'
+
